@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#out{
+    border: solid 1px;
+    height: 550px;
+    background-image: url(pizzzzaa.jpg);
+    background-repeat: no-repeat;
+    background-size: 1260px 580px;
+
+}
+h1{
+    color: blanchedalmond;
+    font-size: 60px;
+    margin-top: 130PX;
+    margin-left: 220px;
+    font-style: italic;
+}
+#REGISTER,#lOGIN{
+    height: 40px;
+    width: 120px;
+    margin: 20PX;
+    background-color: silver;
+}
+#REGISTER{
+    margin-left: 430PX;
+}
+#REGISTER a,#lOGIN a{
+    color: black;
+    font-size: 15px;
+    text-decoration: none;
+}
+#REGISTER:hover{
+    background-color: plum;
+}
+#lOGIN:hover{
+    background-color: plum;
+}

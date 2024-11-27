@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    border: solid 0px;
+    height: 560px;
+    background-image: url(pzd.jpg);
+     background-repeat:no-repeat ;
+     background-size: 1500px 600px;
+}
+form{
+    border: solid 0
+    px wheat;
+    margin-left: 1000px;
+    width: 300px;
+    margin-top: 110px;
+    padding-left: 10px;
+}
+label{
+    color: beige;
+    font-size: 17 px;
+}
+h1{
+    color: red;
+    font-size: 35px;
+    text-align: centre;
+
+}
+input{
+    height: 20px;
+    width: 200px;
+}
+button{
+      height: 40px;
+      width: 110px;
+      background-color: chocolate;
+      color: darkblue;
+      font-size: 19px;
+      font-weight: bold;
+      border-radius: 20px;
+}
+p{
+    color: blanchedalmond;
+    font-size: 20px;
+}
+p a{
+    color: chartreuse;
+    font-size: 23px;
+}
